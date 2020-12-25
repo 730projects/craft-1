@@ -1,1 +1,1 @@
-FROM mariadb:10.3
+FROM jbergstroem/mariadb-alpine:10.3.18
